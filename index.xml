@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Vizzy Documentation</title>
+      <link>https://vizzydocs.igerman.cc</link>
+      <description>Last 10 notes on Vizzy Documentation</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Welcome to Vizzy!</title>
+    <link>https://vizzydocs.igerman.cc/</link>
+    <guid>https://vizzydocs.igerman.cc/</guid>
+    <description>👋 Welcome to Vizzy! Get ready to bring your music to life! Vizzy is a free, online music visualizer editor that lets you create stunning, unique videos that react to your audio ...</description>
+    <pubDate>Sun, 09 Feb 2025 23:32:16 GMT</pubDate>
+  </item><item>
+    <title>Rendering to a buffer</title>
+    <link>https://vizzydocs.igerman.cc/Layers/Rendering-to-a-buffer</link>
+    <guid>https://vizzydocs.igerman.cc/Layers/Rendering-to-a-buffer</guid>
+    <description>Rendering to a buffer Each layer in Vizzy can be rendered to a buffer.</description>
+    <pubDate>Sun, 09 Feb 2025 23:32:16 GMT</pubDate>
+  </item><item>
+    <title>What is a layer?</title>
+    <link>https://vizzydocs.igerman.cc/Layers/What-is-a-layer</link>
+    <guid>https://vizzydocs.igerman.cc/Layers/What-is-a-layer</guid>
+    <description>What is a layer? Layers are objects in Vizzy through which items are rendered to the screen or to a buffer. highlight Layer types There are two layer types in Vizzy - 2D and 3D (Orthographic and Perspective), we might also call them camera types.</description>
+    <pubDate>Sun, 09 Feb 2025 23:32:16 GMT</pubDate>
+  </item><item>
+    <title>What is an item?</title>
+    <link>https://vizzydocs.igerman.cc/Items/What-is-an-item</link>
+    <guid>https://vizzydocs.igerman.cc/Items/What-is-an-item</guid>
+    <description>What is an item? An Item is its own little contained renderer, producing an image to a buffer.</description>
+    <pubDate>Sun, 09 Feb 2025 23:32:16 GMT</pubDate>
+  </item><item>
+    <title>System Requirements</title>
+    <link>https://vizzydocs.igerman.cc/Introduction/System-Requirements</link>
+    <guid>https://vizzydocs.igerman.cc/Introduction/System-Requirements</guid>
+    <description>💻 System Requirements Vizzy is designed to run well on a wide range of modern computers, but performance will depend on factors like your computer’s specifications, project complexity, ...</description>
+    <pubDate>Sun, 09 Feb 2025 23:32:16 GMT</pubDate>
+  </item><item>
+    <title>How Vizzy Works</title>
+    <link>https://vizzydocs.igerman.cc/Introduction/How-Vizzy-Works</link>
+    <guid>https://vizzydocs.igerman.cc/Introduction/How-Vizzy-Works</guid>
+    <description>⚙️ How Vizzy Works Vizzy is a bit different from many other online video creation tools. Here’s the magic behind it: Local rendering Vizzy does all of its rendering directly in your web browser.</description>
+    <pubDate>Sun, 09 Feb 2025 23:32:16 GMT</pubDate>
+  </item><item>
+    <title>Concepts</title>
+    <link>https://vizzydocs.igerman.cc/Introduction/Concepts</link>
+    <guid>https://vizzydocs.igerman.cc/Introduction/Concepts</guid>
+    <description>💭 Concepts When we refer to the editor, we mean this page When we refer to the community page or creations page, we mean this page Vizzy is a big program with a lot of features ...</description>
+    <pubDate>Sun, 09 Feb 2025 23:32:16 GMT</pubDate>
+  </item><item>
+    <title>What is an effect?</title>
+    <link>https://vizzydocs.igerman.cc/Effects/What-is-an-effect</link>
+    <guid>https://vizzydocs.igerman.cc/Effects/What-is-an-effect</guid>
+    <description>What is an effect? Known issues Alpha bug Some effects will cause a confusion between dark colors and transparency, effectively creating unintended blending ...</description>
+    <pubDate>Sun, 09 Feb 2025 23:32:16 GMT</pubDate>
+  </item><item>
+    <title>What is a buffer?</title>
+    <link>https://vizzydocs.igerman.cc/Buffers/What-is-a-buffer</link>
+    <guid>https://vizzydocs.igerman.cc/Buffers/What-is-a-buffer</guid>
+    <description>What is a buffer? A buffer is defined as a region of memory that holds the data for an image to be displayed on a screen. Think of it as a ‘screen’. Vizzy has two buffer types.</description>
+    <pubDate>Sun, 09 Feb 2025 23:32:16 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
